@@ -1,5 +1,7 @@
 # Today!
 
+<img width="359" alt="Screenshot 2024-01-07 at 1 25 05 AM" src="https://github.com/RafaelPiloto10/today/assets/31188361/75a52f1d-33ec-4568-878f-9aa637e71d95">
+
 A blazingly simple, MacOS native menu app that tracks your todo items.
 No fluff, no analytics, no cloud accounts -- nada. Built in native SwiftUI for
 blazingly fast, native performance.
